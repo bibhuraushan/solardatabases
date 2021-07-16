@@ -6,3 +6,6 @@ https://hesperia.gsfc.nasa.gov/rhessi3/data/solar-data-browsing/index.html
 
 ## Solar Database hosted at NASA
 https://sohowww.nascom.nasa.gov/sdb/
+
+## Latest Solar Flares
+https://www.lmsal.com/solarsoft/latest_events/
